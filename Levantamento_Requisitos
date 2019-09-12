@@ -1,0 +1,24 @@
+
+-- Requisitos
+	
+	Regra de negócio:
+	- Trabalha sobre demanda
+	- Vende ao publico em caso de sobrar de entregas / retiradas 
+	- Se status da Ordem de pedido =! de novo, não é possível adicionar novos produtos, necessário criar nova OP
+	
+	Funcionais:
+	- Demanda diária / semanal / mensal.
+	- Custo de produção unitário.
+	- CRUD Clientes / Usuários / Produtos / Endereço
+	- Data / Hora de entrega / retirada.
+	- Associação de usuário á Pedidos
+
+	Não funcionais:
+	- Controle de acesso.
+	- Disponibilidade do sistema
+	- 
+	
+	Futuro:
+	- Medida padrão de matéria prima para confecção de produtos.
+	
+	

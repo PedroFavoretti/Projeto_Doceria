@@ -1,0 +1,39 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+									CLIENTE: Pedrinho da esquina
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Doceria
+
+	WORKFLOW: Acorda > Faz doce > Embala > Entrega cliente > Se sobrar vende ao publico.
+	COMPRA MATERIAL EM: Mercado
+	ENTREGA: Região
+
+-- Necessidade:
+	
+	- Quanto gasta.
+	- Quanto vende.
+	- Qual custo unitário.
+	- Quais entregas possui(Demanda diária/semanal/mensal).
+	- Custo de produção unitário.
+	- Medidas padrão para confecção.
+	- CRUD Clientes / Estoque
+
+-- Proposta
+
+	Módulo de gerenciamento, onde o cliente terá o controle da entrada e saida de material, clientes, demanda diária / semanal / mensal, assim como lucro e preço  		unitário de produtos.
+	
+-- Módulos
+
+
+	O cliente precisa de um sistema com o foco em seus Pedidos, que futuramente possa ser expandido.
+	MODULOS (Primeira Entrega)
+	O foco da primeira entrega será o Core do cliente, pois está relacionado aos Pedidos.
+
+	1 - Pedidos (CORE)
+	2 - Produtos
+	3 - Clientes
+	4 - Usuário
+	5 - Login
+
+
+	

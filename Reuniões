@@ -1,0 +1,19 @@
+-- A fazer
+	[Login] > Reset de senha > Pergunta padrão* + email e nome usuário > Envia senha email > Solicitar nova senha ao logar
+	[Usuário] > Cadastrar usuários > Pedir confirmação de senha
+	[Tela inícial] O que será apresentado na aba Usuário
+	[Pedidos] Flag perguntando se é entrega, se não for setado como true, automaticamente define que é para retirada
+	[Pedidos] Campos baseados em parametrização bloqueados ao invés de deixar invísivel, assim evita problemas não palpaveis
+	[Pedidos] Ao invés de editar (canto inferior da tela), colocar na tabela icone que representa editar (Igual show / delete)
+	[Pedidos] Adicionar número do pedido
+	[Pedidos] Status > Adicionar "PREPARADO", status genérico para que produto esta pronto para retirada / entrega 
+	[Pedidos] Listagem de pedidos
+	[Pedidos] Separar tela em tópicos referentes {
+	
+	Pedido
+	Atributos cliente
+	Intens pedido
+	etc	
+	
+	} 
+	[BANCO DE DADOS] Modelar { camelCase, Português}

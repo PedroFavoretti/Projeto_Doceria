@@ -8,9 +8,7 @@
 	
 	Funcionais:
 	- Demanda diária / semanal / mensal.
-	- Custo de produção unitário.
-	- CRUD Clientes / Usuários / Produtos / Endereço
-	- Data / Hora de entrega / retirada.
+	- CRUD Clientes / Usuários / Produtos / Endereço / Pedidos
 	- Associação de usuário á Pedidos
 
 	Não funcionais:
@@ -20,5 +18,6 @@
 	
 	Futuro:
 	- Medida padrão de matéria prima para confecção de produtos.
-	
+	- Custo de produção unitário.
+	- 
 	
